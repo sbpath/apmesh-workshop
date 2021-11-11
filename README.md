@@ -14,6 +14,10 @@ https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/
 ## AppMesh configuration and base cluster creation
 https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/appmeshconfigartion/
 
+Buf fix for error below: npm install -g aws-cdk  
+This CDK CLI is not compatible with the CDK library used by your application. Please upgrade the CLI to the latest version.
+(Cloud assembly schema version mismatch: Maximum schema version supported is 13.0.0, but found 14.0.0)
+
 ## Deploy crystal App
 https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-crystal-app/ 
 
