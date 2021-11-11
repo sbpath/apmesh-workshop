@@ -1,6 +1,6 @@
 # Appmesh workshop
 
-![app-mesh-proxy](https://ecsworkshop.com/networking_sd/app_mesh/images/welcome-appmesh-architecture-reference.png)
+![app-mesh-proxy](https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/images/ecs-app-mesh-diagram-Infra-setup.png)
 
 ## Create Cloud9 environment and associate IAM role 
 https://ecsworkshop.com/start_the_workshop/workspace/#region-0
