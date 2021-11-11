@@ -18,13 +18,13 @@ This CDK CLI is not compatible with the CDK library used by your application. Pl
 (Cloud assembly schema version mismatch: Maximum schema version supported is 13.0.0, but found 14.0.0)
 
 ## Deploy crystal App
-https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-crystal-app/ 
+https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-crystal-app/
 
 ## Deploy nodejs App
 https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-nodejs-app/
 
 ## Deploy Frontend App
-https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-frontend-app/ 
+https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/mesh-frontend-app/
 
 ## Cloudwatch Insights
 https://ecsworkshop.com/networking_sd/app_mesh/observability/logging/
