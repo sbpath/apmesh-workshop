@@ -6,9 +6,8 @@
 https://ecsworkshop.com/start_the_workshop/workspace/#region-0
 
 ## AppMesh prerequisites
-https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/
-  https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/tools/
-  https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/prerequistes/
+https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/tools/
+https://ecsworkshop.com/networking_sd/app_mesh/gettingstarted/prerequistes/
 
 ## AppMesh configuration and base cluster creation
 https://ecsworkshop.com/networking_sd/app_mesh/appmesh-implementation/appmeshconfigartion/
