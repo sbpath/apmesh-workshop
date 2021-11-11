@@ -1,4 +1,4 @@
-# appmesh-workshop
+# Appmesh workshop
 
 ## Create Cloud9 environment and associate IAM role 
 https://ecsworkshop.com/start_the_workshop/workspace/#region-0
